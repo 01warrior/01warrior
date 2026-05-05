@@ -1,4 +1,4 @@
-# 💫 About Me: https://soumaila-savadogo.omnia-elearning.com/
+# About Me: https://soumaila-savadogo.omnia-elearning.com
  Currently: Building an AI Companion app with Flutter.<br><br>👯 Looking to Collaborate: On exciting mobile & full-stack projects that push the boundaries of AI.<br><br>🤝 Seeking Help: With advanced Flutter state management and integrating AI models.<br><br>🌱 Currently Learning: More NLP/ML for advanced app experiences.<br><br>💬 Ask Me About: Mobile development, my stack, challenges and project wins!<br><br>⚡ Fun fact: I'm a full-stack developer with experience in Flutter, React.js, Node.js, Java and Spring Boot.
 
 
